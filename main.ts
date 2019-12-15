@@ -840,7 +840,7 @@ namespace Sensor {
                 }
                 break;
         }
-        // lhRGBLight.clear();
+        lhRGBLight.clear();
         if (lightoffset == lhRGBLight._length)//全部
         {
             for (let i = 0; i < lhRGBLight._length; i++)
